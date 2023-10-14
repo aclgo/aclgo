@@ -7,7 +7,7 @@
 - [henvic/pgxtutorial#5](https://github.com/henvic/pgxtutorial/pull/5)
 
 ### My basics Projects:
-- [grpc-jwt-login} (https://github.com/aclgo/grpc-jwt-login)
+- [grpc-jwt-login] (https://github.com/aclgo/grpc-jwt-login)
 - [grpc-mail] (https://github.com/aclgo/grpc-mail)
 - [simple-api-gateway] (https://github.com/aclgo/simple-api-gateway)
  
