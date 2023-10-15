@@ -10,6 +10,7 @@
 - [grpc-jwt-login](https://github.com/aclgo/grpc-jwt-login)
 - [grpc-mail](https://github.com/aclgo/grpc-mail)
 - [simple-api-gateway](https://github.com/aclgo/simple-api-gateway)
+- [grpc-admin]((https://github.com/aclgo/grpc-admin))
  
 <!--
 - [jeffotoni/gses#1](https://github.com/jeffotoni/gses/pull/1/)
