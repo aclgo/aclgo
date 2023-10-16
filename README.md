@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My contributions:
+### My basics contributions:
 
 - [AleksK1NG/Go-GRPC-Auth-Microservice#10](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice/pull/10)
 - [jeffotoni/gses#1](https://github.com/jeffotoni/gses/pull/1/)
